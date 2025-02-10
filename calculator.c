@@ -14,7 +14,7 @@ NOTE:
 1. First, accept "operator" as char
 2. Then, accept 2 numbers "num1" and "num2" as doubles
 3. Compute "result"
-4. Display result using the following printf statement ONLY:
+4. Display result using the following printf statement ONLY printing the 2 numbers and the entered operation as follows:
    printf("Result: %.2lf %c %.2lf = %.2lf\n", num1, operator, num2, result);
 */
 
