@@ -6,7 +6,7 @@
 ### Assignment:
 - Update calculator.c following assignment description provided in HomeworkAssignment_Week4.pdf (uploaded on Laulima)
 
-**NOTE**: Github is not a place to test your code. Test it on your machines first. Autograding will be disabled if you exceed 10 commits. We will start out by sending emails to you personally if you exceed 10 commits, and eventually penalizing your grade.
+**NOTE**: We will start out by sending emails to you personally if you exceed 10 commits, and eventually penalizing your grade.
 
 ### Steps to submit changes:
 1. Click on desired .c to open file
@@ -24,7 +24,8 @@
 4. Expand the desired section. If your code did not pass, you will expand "Run education/autograding@v1" and see the error message.
 
 ### Note:
-We strongly recommend you run your finished programs on your local machine/laptop first to test if they are working correctly. You should always test on your laptop first, and then copy the finished code to github. Test your program on your machine using the instructions you received in the lab sessions.
+We strongly recommend you run your finished programs on your local machine/laptop first to test if they are working correctly and then copy the finished code to github. Test your program on your machine using the instructions you received in the lab sessions.
+
 
 If your code did not pass, revise your code and submit(commit) your changes again.
 
@@ -32,4 +33,4 @@ Make sure you have your final submission in before the deadline has passed.
 
 You will not be able to submit changes after the deadline has passed.
 
-For any questions, please reach out to Dr. Katy Tarrit (katytm7@hawaii.edu) AND Rajan Sawhney (rsawhney@hawaii.edu)
+For any questions, please reach out to Dr. Katy Tarrit (katytm7@hawaii.edu) AND Aditi Jaiswal (ajaiswal@hawaii.edu)
